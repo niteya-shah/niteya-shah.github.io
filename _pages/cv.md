@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-# Niteya Shah
-
 ```
 Phone +1 540-250-
 E-mail niteya.56@gmail.com
@@ -32,8 +28,11 @@ Business Analytics for Engineers Soft Computing Natural Language Processing
 ## EXPERIENCE
 
 Graduate Researcher August 2021-Present
+
 SyNeRGy Lab and SEEC Center
+
 Supervisor: Dr Wu Feng
+
 Userspace Paging Optimization
 
 - Study the effect of tuning paging parameters on applications with different characteristics using UMAP
@@ -45,8 +44,9 @@ Userspace Paging Optimization
 - Profile QCD carpentry code to find critical sections and linearization points.
 - Improve performance of code by parallelization, optimization, and refactoring leading to a two-fold speedup.
 
-Data Scientist May 2020 - July 2021
-Tiger Digital Advertising, Vadodara
+#### Data Scientist May 2020 - July 2021
+
+#### Tiger Digital Advertising, Vadodara
 
 - Analysed data to gain insights, and learn patterns and trends.
 - Tested products for market feasibility and identify customer bases with exploratory campaigns by using data
@@ -56,8 +56,9 @@ and extend.
 
 ## INTERNSHIPS
 
-DevOps Engineering Intern May 2019 - July 2019
-Tiger Digital Advertising, Vadodara
+#### DevOps Engineering Intern May 2019 - July 2019
+
+#### Tiger Digital Advertising, Vadodara
 
 - Executed automated desktop deployments.
 - Performed ongoing performance tuning, hardware upgrades, and resource optimization.
