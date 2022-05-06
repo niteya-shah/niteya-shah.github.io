@@ -68,9 +68,9 @@ modifications and adjustments.
 
 ## PROJECTS
 
-Face Recognition using Map Locking Winter 2019
-Undergrad Thesis
-Supervisor : Dr. Kannan A, Vellore Institute of Technology
+#### Face Recognition using Map Locking Winter 2019
+#### Undergrad Thesis
+#### Supervisor : Dr. Kannan A, Vellore Institute of Technology
 
 - Designed and developed a custom loss function that better extracted information from the final feature
 representation
@@ -93,9 +93,9 @@ which is a part of the Trilinos project.
 - Compared the performance improvements and error growth caused by spatially partitioning the datasets using
 the algorithms.
 
-```
-Gujarati Speech Recognition Winter 2018
-```
+
+#### Gujarati Speech Recognition Winter 2018
+
 - Developed a speech-to-text model for the Gujarati Language.
 - The model architecture was composed of bidirectional gated recurrent units and used connectionist temporal
 classification to estimate correctness and was trained on the Microsoft Speech Recognition Dataset.
